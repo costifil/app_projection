@@ -1,0 +1,11 @@
+{
+	"displays": [
+		"DISPLAY1",
+		"DISPLAY2",
+		"DISPLAY3"
+	],
+	"app_list": [
+		"VLC media player",
+		"Windows Media Player"
+	]
+}
